@@ -3,3 +3,6 @@ The simulation tool explores the effects of multi-screen / plasma lens scatterin
 
 ## 2 Screen Case
 FRBs are known for 2 screen Masui 2015. 
+
+## Local development 
+Plans to expand to n screen simulations.
